@@ -4,11 +4,15 @@
 
 ## Licensing Information
 
+Since the Python code in this essential part of the project, the repository's license is Apache 2.0. Please note the specifications in the following licensing information!
+
 ### Data
-The data in this repository is licensed under the Creative Commons Attribution ShareAlike 4.0 License (CC BY-SA 4.0).
+The data used for this project is licensed under the Creative Commons Attribution ShareAlike 4.0 License (CC BY-SA 4.0). It will me made available in due time in a 4 TU Repository. The link will be put [here].
 
 ### Code
 I wrote the Python code in this repository and license it under the Apache License 2.0.
+
+The Netlogo code in this project is based on the models listed below. Special licensing may apply.
 
 ### Models
 The models in this repository are licensed as follows:
@@ -34,7 +38,7 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 #### Axelrod’s Model of Cultural Dissemination
 - *Source*: NetLogo Models Community Library
 - *Copyright*: 2013 Arezky H. Rodríguez
-- *License*: [Specify the License]
+- *License*: (not specified by the author)
 - *Contact*: arezky@gmail.com
+- *URL*: [https://ccl.northwestern.edu/netlogo/models/community/Axelrod_Cultural_Dissemination](https://ccl.northwestern.edu/netlogo/models/community/Axelrod_Cultural_Dissemination)
 
-[Specify the licensing details for the Axelrod model here.]
