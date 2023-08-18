@@ -19,6 +19,7 @@ The models in this repository are licensed as follows:
 - *License*: CC BY-NC-SA 3.0
 - *Contact*: uri@northwestern.edu
 - *URL*: [https://ccl.northwestern.edu/netlogo/models/Voting](https://ccl.northwestern.edu/netlogo/models/Voting)
+
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License. To view a copy of this license, visit CC BY-NC-SA 3.0.
 
 #### Continuous Opinion Dynamics under Bounded Confidence
@@ -27,6 +28,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 - *License*: CC BY-SA 3.0
 - *Contact*: post@janlo.de
 - *URL*: [https://ccl.northwestern.edu/netlogo/models/Voting](https://ccl.northwestern.edu/netlogo/models/community/bc)
+
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit CC BY-SA 3.0.
 
 #### Axelrod’s Model of Cultural Dissemination
@@ -34,4 +36,5 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 - *Copyright*: 2013 Arezky H. Rodríguez
 - *License*: [Specify the License]
 - *Contact*: arezky@gmail.com
+
 [Specify the licensing details for the Axelrod model here.]
