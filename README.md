@@ -38,7 +38,7 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 #### Axelrod’s Model of Cultural Dissemination
 - *Source*: NetLogo Models Community Library
 - *Copyright*: 2013 Arezky H. Rodríguez
-- *License*: (not specified by the author)
+- *License*: not specified, but with kind permission from the author
 - *Contact*: arezky@gmail.com
 - *URL*: [https://ccl.northwestern.edu/netlogo/models/community/Axelrod_Cultural_Dissemination](https://ccl.northwestern.edu/netlogo/models/community/Axelrod_Cultural_Dissemination)
 
