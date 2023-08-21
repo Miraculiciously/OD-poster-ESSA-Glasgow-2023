@@ -7,7 +7,7 @@
 Since the Python code in this essential part of the project, the repository's license is Apache 2.0. Please note the specifications in the following licensing information!
 
 ### Data
-The data used for this project is licensed under the Creative Commons Attribution ShareAlike 4.0 License (CC BY-SA 4.0). It will me made available in due time in a 4 TU Repository. The link will be put [here].
+The data used for this project is licensed under the Creative Commons Attribution ShareAlike 4.0 License (CC BY-SA 4.0). It will me made available in due time in a 4 TU Repository. The link will be put [here] in due time.
 
 ### Code
 I wrote the Python code in this repository and license it under the Apache License 2.0.
