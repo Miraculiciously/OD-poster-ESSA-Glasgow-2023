@@ -42,3 +42,8 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 - *Contact*: arezky@gmail.com
 - *URL*: [https://ccl.northwestern.edu/netlogo/models/community/Axelrod_Cultural_Dissemination](https://ccl.northwestern.edu/netlogo/models/community/Axelrod_Cultural_Dissemination)
 
+## Miscellaneous
+
+### Errors
+
+Using the file bc_6_3.nlogo, you might occasionally encounter a NetLogoException indicating an attempt to calculate the mean of an empty list. This is inherently a NetLogo model issue, as under standard conditions, the list being referenced shouldn't be empty. To my knowledge, this does not influence the code much. It might come from the fact that the downloaded model was wirtten for Netlogo 5.0 and I transitioned it to netlogo 6.3.0. Please be aware of this little "teething problem" when running the model.
