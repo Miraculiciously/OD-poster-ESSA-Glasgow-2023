@@ -44,6 +44,11 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 
 ## Miscellaneous
 
+### How to Cite
+
+Please cite this work as
+Schubotz, L.,  Chappin, E., Scholz, G. (2023). Cinderella's Slipper: Inverse Modelling of Energy Transition Votes in Opinion Dynamics. Presented at the Social Simulation Conference 2023 in Glasgow. URL: https://github.com/Miraculiciously/OD-poster-ESSA-Glasgow-2023/
+
 ### Errors
 
 Using the file bc_6_3.nlogo, you might occasionally encounter a NetLogoException indicating an attempt to calculate the mean of an empty list. This is inherently a NetLogo model issue, as under standard conditions, the list being referenced shouldn't be empty. To my knowledge, this does not influence the code much. It might come from the fact that the downloaded model was wirtten for Netlogo 5.0 and I transitioned it to netlogo 6.3.0. Please be aware of this little "teething problem" when running the model.
