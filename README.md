@@ -1,6 +1,6 @@
 # OD-poster-ESSA-Glasgow-2023
 
-[Brief Description]
+This is the repository for the poster I made for the ESSA conference in Glasgow 2023. My aim with this was to get a first grip on inverse modelling and share what I have learned with the community. I'm happy to share the poster upon request via [lschubotz@tudelft.nl].
 
 ## Licensing Information
 
