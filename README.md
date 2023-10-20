@@ -2,6 +2,14 @@
 
 This is the repository for the poster I made for the ESSA conference in Glasgow 2023. My aim with this was to get a first grip on inverse modelling and share what I have learned with the community. I'm happy to share the poster upon request via [lschubotz@tudelft.nl].
 
+## How to Use
+
+Provided in this repository is the code for three models. The voter model has two files, "Voting.nlogo" and "Voting_w_clusters.nlogo". These can be run independently.
+All files with the prefix "bc_" belong to the bounded confidence model. bc_6_3.nlogo is the netlogo file converted to Netlogo version 6.3. bc_generate_data.py generates some data that bc_main.py can match which is the main file for this simulation and fitting run, but any curve can be matched, merely the file names need to be exchanged.
+The same structure applies for the culture dissemination model with the prefix "cd_".
+An effort has been made to use self-explanatory variable names and file names. If any questions or unclarities remain or errors are encountered, the author is grateful for a brief message.
+
+
 ## Licensing Information
 
 Since the Python code in this essential part of the project, the repository's license is Apache 2.0. Please note the specifications in the following licensing information!
