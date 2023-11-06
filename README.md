@@ -9,6 +9,7 @@ All files with the prefix "bc_" belong to the bounded confidence model. bc_6_3.n
 The same structure applies for the culture dissemination model with the prefix "cd_".
 An effort has been made to use self-explanatory variable names and file names. If any questions or unclarities remain or errors are encountered, the author is grateful for a brief message.
 
+Install all necessary dependencies through the file requirements.txt, e.g., using `pip install -r requirements.txt`.
 
 ## Licensing Information
 
